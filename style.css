@@ -1,0 +1,42 @@
+h1 {
+  text-align: center;
+  border-radius: 20px;
+  background-image: linear-gradient(175deg, blue, lightblue);
+  color: black;
+}
+
+body {
+  background-image: url("hermine.png");
+}
+
+.c1 {
+  float: left;
+  margin: 10px;
+}
+
+.c2 {
+  height: 200px;
+  width: 200px;
+}
+
+.c3 {
+  background-image: linear-gradient(175deg, blue, lightblue);
+  color: white;
+  overflow: auto;
+  text-align: center;
+  margin: 5%;
+  border-radius: 20px;
+}
+
+.c4 {
+  border: 1px solid black;
+  background-color: lightblue;
+}
+
+.c5 {
+  display: block;
+  width: 40%;
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+}
